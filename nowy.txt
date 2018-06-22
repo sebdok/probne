@@ -1,0 +1,3 @@
+readme
+to jest plik tekstowy
+nic tu nie poprawisz
